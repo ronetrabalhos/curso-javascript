@@ -2,7 +2,7 @@ const valores = [7.7, 8.9, 6.3, 9.2]
 console.log(valores[0], valores[3])
 console.log(valores[4]) // nao da erro, apenas undefined (indefinido)
 
-valores[4] = 4.7
+valores[4] = 4.7 // inserindo o índice 4 no array com valor 10  
 console.log(valores[4])
 
 valores[10] = 10.4 // o javascript insere os elementos vazios até o índice 10
