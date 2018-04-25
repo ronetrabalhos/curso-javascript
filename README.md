@@ -1,8 +1,8 @@
+# Minhas anotações
+
 Arquivo destinado a anotações relevantes sobre o curso
 
-===========================================
-Aula 11
-===========================================
+## Aula 11
 
 **Editores javascript on-line**
 
