@@ -26,7 +26,7 @@ Para executar o arquivo no terminal tanto do vs quanto do mac basta digitar [nod
 
 Para utilizar o Code Runner basta estar com o arquivo aberto e utilizar o atalho [ctrl + alt + N]
 
-**Notas**
+## Notas Gerais
 
 - Ver videos sobre EcmaScript no canal http://cod3r.com.br
 
