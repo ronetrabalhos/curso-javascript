@@ -1,8 +1,6 @@
 # Minhas anotações
 
-Arquivo destinado a anotações relevantes sobre o curso
-
-## Aula 11
+Arquivo destinado a anotações gerais e relevantes sobre o curso
 
 **Editores javascript on-line**
 
@@ -29,4 +27,7 @@ Para utilizar o Code Runner basta estar com o arquivo aberto e utilizar o atalho
 ## Notas Gerais
 
 - Ver videos sobre EcmaScript no canal http://cod3r.com.br
+- https://www.cod3r.com.br/portal/courses/dicas-de-javascript-11
+- https://www.cod3r.com.br/portal/courses/ecmascript-2015-12
+- https://www.cod3r.com.br/portal/courses/padr%C3%B5es-de-projeto-14
 
