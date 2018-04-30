@@ -42,6 +42,11 @@ function imprimir(nome, indice) {
     console.log(`${indice + 1}. ${nome}`)
 }
 
+/*
+ * Neste exemplo o evento é registrado quando é passado a 
+ * função imprimir para o forEach()
+*/
+
 fabricantes.forEach(imprimir)
 
 console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -51,5 +56,14 @@ fabricantes.forEach(function(fabricante){
 })
 
 console.log('- - - - - - - - - - - - - - - - - - - -')
+
+/*
+ * O evento é registrado ao ser chamado a função arrow fabricante
+ * 
+ * No momento em que se passa a função arrow é como se eu dissesse: 
+ * Quando acontecer o evento de percorrer os elementos, chame a 
+ * função arrow repassada.
+ * 
+*/
 
 fabricantes.forEach(fabricante => console.log(fabricante))
