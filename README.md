@@ -2,6 +2,11 @@
 
 Arquivo destinado a anotações gerais e relevantes sobre o curso
 
+**Repositório do Curso**
+
+Todos os exercícios e projetos estão em... 
+https://github.com/cod3rcursos/web-moderno
+
 **Editores javascript on-line**
 
 - https://repl.it
