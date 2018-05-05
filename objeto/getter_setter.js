@@ -17,16 +17,26 @@ const sequencia = {
     get valor() { return this._valor++ },
     set valor(valor) { 
         if(valor > this._valor) {
+            console.log('alterando o valor com set valor()')
             this._valor = valor
+        }
+        else{
+            console.log('O valor informado ('+ valor+') é inferior a: ', this._valor )
         }
     }
 }
 
+console.log(sequencia.valor)
+console.log(sequencia.valor)
 console.log(sequencia.valor, sequencia.valor)
 sequencia.valor = 1000
+console.log(sequencia.valor)
 console.log(sequencia.valor, sequencia.valor)
 sequencia.valor = 900
 console.log(sequencia.valor, sequencia.valor)
 
 sequencia._valor = 300
+
+// pulando as validações
+console.log('Forçando alteração do valor sem usar set')
 console.log(sequencia._valor)
